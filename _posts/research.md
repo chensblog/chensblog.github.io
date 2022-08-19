@@ -1,13 +1,12 @@
 ---
-layout:     post
-title:      "读博期间科研简介"
-subtitle:   ""
-date:       2022-07-01
-author:     "陈实"
+layout: post
+title: "读博期间科研简介"
+subtitle: ""
+date: 2022-07-01
+author: "陈实"
 header-img: ""
-catalog: true
 tags:
-    - 科研
+  - 科研
 ---
 ### 已发表论文：
 
