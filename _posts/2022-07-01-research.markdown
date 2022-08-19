@@ -54,5 +54,5 @@ tags:
 - Zheng Shu, Hongjing Liang, Yichen Wang, Shilin Hu, **Shi Chen**, Haifeng Xu, Ri Ma, Dajun Ding, and Jing Chen, "Channel Coupling Dynamics of Deep-Lying Orbitals in Molecular High-Harmonic Generation," [Phys. Rev. Lett. **128**(18), 183202 (2022).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.183202)
 
 #### Others:
-- Shuai Ben, Shi Chen, Cheng-Rui Bi, Jing Chen, and Xue-Shen Liu, "Investigation of electron vortices in time-delayed circularly polarized laser pulses with a semiclassical perspective," [Opt. Express **28**(20), 29442 (2020).](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-20-29442)
+- Shuai Ben, **Shi Chen**, Cheng-Rui Bi, Jing Chen, and Xue-Shen Liu, "Investigation of electron vortices in time-delayed circularly polarized laser pulses with a semiclassical perspective," [Opt. Express **28**(20), 29442 (2020).](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-20-29442)
 - Yingbin Li, Lingling Qin, Aihua Liu, Ke Zhang, Qingbin Tang, Chunyang Zhai, Jingkun Xu, **Shi Chen**, Benhai Yu, and Jing Chen, "Manipulating Nonsequential Double Ionization of Argon Atoms via Orthogonal Two-Color Field," [Chin. Phys. Lett. 39, 093201 (2022).](https://iopscience.iop.org/article/10.1088/0256-307X/39/9/093201/meta)
