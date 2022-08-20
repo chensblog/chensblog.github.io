@@ -3,7 +3,7 @@ layout: post
 title: "读博期间科研简介"
 subtitle: ""
 date: 2022-07-01
-author: "陈实"
+author: "cs"
 header-img: ""
 tags:
   - 科研
@@ -37,7 +37,7 @@ tags:
 这项工作揭示出Ar原子和分子谐波强度比值椭偏依赖的差异源于分子结构（核间距）和分子轴取向造成的影响电子运动的库伦势的不同。
 
 
-### 附：发表论文列表
+### 附：相关论文
 
 #### Strong-field frustrated double ionization:
 - **Shi Chen**, Jing Chen, Gerhard G. Paulus, and HuiPeng Kang, "Strong-field frustrated double ionization of argon atoms," [Phys. Rev. A **102**(2), 023103 (2020).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.023103)
