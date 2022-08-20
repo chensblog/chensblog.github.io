@@ -11,7 +11,7 @@ tags:
 
 开个坑，记录工作中遇到的一些不涉密的问题，包括:
 
-- fitting: Linear, Lasso, Ridge, Decision Tree.
-- Barra
-- wq101
-- market impact
+- 拟合相关: Linear, Lasso, Ridge, Decision Tree.
+- Barra因子相关
+- wq101因子
+- 市场冲击(market impact)相关
